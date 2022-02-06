@@ -2,3 +2,4 @@
 *   OSINT
 *   IMINT
 *   GEOINT
+*   FININT
