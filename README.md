@@ -13,5 +13,3 @@ I will try my best to categorize them and keep them up to date. If you are looki
 *   Offensive
 *   DFIR & Threat Hunting
 *   Threat Intelligence
-
-README.md
