@@ -9,6 +9,7 @@ I will try my best to categorize them and keep them up to date. If you are looki
 *   OSINT
 *   IMINT
 *   GEOINT
+*   FININT
 ### Infosec
 *   Offensive
 *   DFIR & Threat Hunting
